@@ -9,16 +9,6 @@ Instructor: Dr. Hanna Bullata
 
 Semester: 1st Semester 2025/2026
 
-👩‍💻 Authors
-
-Dareen Abualhaj || 1220686
-
-Lina || 1211051
-
-Taima || 1220701
-
-Sabetieh || 1221960
-
 Supervised by Dr. Hanna Bullata
 -------------------------------------------------------------------------------------------------------------------------
 
